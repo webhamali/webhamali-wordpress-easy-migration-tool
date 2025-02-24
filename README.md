@@ -23,7 +23,7 @@ WebHamali WordPress Easy Migration Tool is a self-contained, web-based solution 
 
 ## Interface
 
-#To be added
+![Login Form](https://github.com/webhamali/webhamali-wordpress-easy-migration-tool/blob/main/Panel.png)
 
 ## Installation
 
